@@ -1,13 +1,10 @@
 {
-    "display_name": "",
-    "command": "",
+    "display_name": "Utilities for exporting to Excel files",
+    "command": "generate",
     "dependencies": [],
-
-    "keywords": [],
-    "methodology": [],
-    "topic": [],
-
-    "description": "",
-    "author": "",
-    "author_email": ""
+    "keywords": ["Excel", "export"],
+    "methodology": ["Other", "Export"],
+    "description": "Utilities for exporting data to Excel. Currently, this provides a method for exporting into existing Excel files (that could contain Excel formula)",
+    "author": "OW DNA Team",
+    "author_email": "TBD"
 }

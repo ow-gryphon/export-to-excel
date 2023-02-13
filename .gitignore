@@ -1,3 +1,6 @@
+.git/
+**/sample_output/**
+
 .idea/
 .idea/**
 
